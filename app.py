@@ -1,10 +1,5 @@
-from flask import Flask
+name = "Venky"
+age = 22
 
-app = Flask(__name__)
-
-@app.route("/")
-def home():
-    return "Welcome to DevOps Lab"
-
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+print("Name:", name)
+print("Age:", age)
