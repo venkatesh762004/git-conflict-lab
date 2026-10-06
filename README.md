@@ -1,0 +1,1 @@
+This repository is created for practicing Git merge conflicts.
