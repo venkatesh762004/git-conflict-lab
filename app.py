@@ -1,5 +1,5 @@
 name = "Venky"
-age = 22
+age = 25
 
 print("Name:", name)
 print("Age:", age)
