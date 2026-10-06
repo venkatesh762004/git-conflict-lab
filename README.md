@@ -1,1 +1,2 @@
-This repository is created for practicing Git collaboration.
+
+This repository is created for practicing Git merge conflicts.
